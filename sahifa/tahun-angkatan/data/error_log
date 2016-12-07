@@ -1,5 +1,0 @@
-[07-Dec-2016 04:06:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qsoft_sic.student_angkatan' doesn't exist' in /home/qsoft/sic.qgconline.com/admin/sahifa/tahun-angkatan/data/proses.php:9
-Stack trace:
-#0 /home/qsoft/sic.qgconline.com/admin/sahifa/tahun-angkatan/data/proses.php(9): PDO->query('select * from s...')
-#1 {main}
-  thrown in /home/qsoft/sic.qgconline.com/admin/sahifa/tahun-angkatan/data/proses.php on line 9
