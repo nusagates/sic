@@ -1,0 +1,86 @@
+[15-Sep-2016 10:31:33 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 10:31:43 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 10:31:46 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 10:38:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 10:53:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 10:53:29 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:00:36 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:03:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:07:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:08:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:08:31 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:12:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:13:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:19:06 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:22:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:22:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:22:55 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:25:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:25:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on string in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 25
+[15-Sep-2016 11:28:41 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:30:19 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:32:16 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:45:09 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:48:46 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:49:24 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:49:50 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:53:16 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:54:07 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:55:36 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 11:56:11 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 12:01:14 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[15-Sep-2016 12:01:23 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[16-Sep-2016 14:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[16-Sep-2016 14:48:58 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[16-Sep-2016 19:42:37 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[16-Sep-2016 19:42:41 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[16-Sep-2016 20:52:27 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[17-Sep-2016 03:11:38 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[19-Sep-2016 17:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
+[21-Sep-2016 16:44:13 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/indomedia/demo.indomedia.co.id/e-office/api/data-demo/peta-sekolah/data-peta.php on line 35
