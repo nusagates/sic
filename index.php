@@ -32,7 +32,7 @@ include 'header.php';
         <!-- /.box-header -->
         <!-- form start -->
         <div class="box-body" >
-               Taa daa! You found me!
+               Taa daa! You found me! Please contact me if need any help.
         </div>
     </div>
     <!-- /.box -->
