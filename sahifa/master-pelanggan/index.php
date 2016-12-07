@@ -29,7 +29,7 @@ include '../../header.php';
         </div>
         <!-- /.box-header -->
         <!-- form start -->
-        <div class="box-body" >
+        <div class="box-body" > skip dulu ya..
             <table id="tabel" data-role="table" class="table stripe table-hover ui-responsive">
                 <thead>
                     <tr>
