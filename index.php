@@ -32,26 +32,11 @@ include 'header.php';
         <!-- /.box-header -->
         <!-- form start -->
         <div class="box-body" >
-                <table id="tabel-mahasiswa" data-role="table" class="table stripe table-hover ui-responsive">
-                    <thead>
-                        <tr>
-                            <th width="5%">NO.</th>
-                            <th>TAHUN ANGKATAN</th>
-                            <th>KETERANGAN</th>
-                            <th>TINDAKAN</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    </tbody>
-                </table>
+               Taa daa! You found me!
         </div>
     </div>
     <!-- /.box -->
-    <script>
-        $(function(){
-           fetch_mahasiswa(); 
-        });
-        </script>
+
 </div>
 <?php include 'footer.php'; ?>
 
